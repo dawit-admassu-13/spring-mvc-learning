@@ -1,3 +1,18 @@
+> 📚 **Learning & reference repository (fork)**
+>
+> This is a personal fork of
+> [dailycodebuffer/Spring-MVC-Tutorials](https://github.com/dailycodebuffer/Spring-MVC-Tutorials),
+> kept for study and reference. All code in this repository was written by the
+> original authors (Daily Code Buffer) and is distributed under their
+> [MIT License](LICENSE). The original README is preserved unchanged below.
+>
+> Modules cover Spring Boot web apps, Spring Security and JWT, Kafka and RabbitMQ
+> producers/consumers, Docker and Docker Compose, Eureka, Redis, MySQL,
+> AWS (SQS, SNS, DynamoDB), WebSockets, OpenAPI documentation, logging, and
+> JaCoCo test coverage.
+
+---
+
 # Spring-MVC-Tutorials
 
 Java and Spring Tutorials
